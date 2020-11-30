@@ -2,12 +2,12 @@ import Foundation
 import SwiftUI
 
 struct cc : Codable, Identifiable{
-    let id = UUID()
+    var id = UUID()
     let title : String
     let body : String
 }
 struct ch : Codable, Identifiable {
-    let id = UUID()
+    var id = UUID()
     let question : String
     let pronunciation : String
     let answer : String

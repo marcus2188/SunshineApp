@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		64172C0324864A3C00B4C070 /* 2.json in Resources */ = {isa = PBXBuildFile; fileRef = 64172C0224864A3C00B4C070 /* 2.json */; };
+		6420FD382574A06300960091 /* KeyboardFollower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6420FD372574A06300960091 /* KeyboardFollower.swift */; };
 		6461D6862488921F00D67DEE /* APIJSONtesterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6461D6852488921F00D67DEE /* APIJSONtesterView.swift */; };
 		6461D6882488939000D67DEE /* APIJSONtestStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6461D6872488939000D67DEE /* APIJSONtestStruct.swift */; };
 		6461D68A24889F5300D67DEE /* Json.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6461D68924889F5300D67DEE /* Json.swift */; };
@@ -18,7 +19,6 @@
 		64BB700D247F642100464538 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB700C247F642100464538 /* Profile.swift */; };
 		64BB7010247F64E200464538 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB700F247F64E200464538 /* User.swift */; };
 		64BB7016247F8E4600464538 /* BorderedViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB7015247F8E4600464538 /* BorderedViewModifier.swift */; };
-		64BB7019247F92F500464538 /* KeyboardFollower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB7018247F92F500464538 /* KeyboardFollower.swift */; };
 		64BB701B247F9F4100464538 /* keyboardoffseter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB701A247F9F4100464538 /* keyboardoffseter.swift */; };
 		64BB701D247FBE3D00464538 /* PracticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB701C247FBE3D00464538 /* PracticeView.swift */; };
 		64BB701F247FC17600464538 /* ChallengeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64BB701E247FC17600464538 /* ChallengeObject.swift */; };
@@ -41,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		64172C0224864A3C00B4C070 /* 2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2.json; sourceTree = "<group>"; };
+		6420FD372574A06300960091 /* KeyboardFollower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KeyboardFollower.swift; path = ../../../../../Desktop/KeyboardFollower.swift; sourceTree = "<group>"; };
 		6461D6852488921F00D67DEE /* APIJSONtesterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIJSONtesterView.swift; sourceTree = "<group>"; };
 		6461D6872488939000D67DEE /* APIJSONtestStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIJSONtestStruct.swift; sourceTree = "<group>"; };
 		6461D68924889F5300D67DEE /* Json.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Json.swift; sourceTree = "<group>"; };
@@ -51,7 +52,6 @@
 		64BB700C247F642100464538 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		64BB700F247F64E200464538 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		64BB7015247F8E4600464538 /* BorderedViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderedViewModifier.swift; sourceTree = "<group>"; };
-		64BB7018247F92F500464538 /* KeyboardFollower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KeyboardFollower.swift; path = "../../../../../08-controls-and-user-input/final/Sources/App/Utils/KeyboardFollower.swift"; sourceTree = "<group>"; };
 		64BB701A247F9F4100464538 /* keyboardoffseter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = keyboardoffseter.swift; sourceTree = "<group>"; };
 		64BB701C247FBE3D00464538 /* PracticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeView.swift; sourceTree = "<group>"; };
 		64BB701E247FC17600464538 /* ChallengeObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeObject.swift; sourceTree = "<group>"; };
@@ -149,7 +149,7 @@
 		64BB7017247F92E000464538 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				64BB7018247F92F500464538 /* KeyboardFollower.swift */,
+				6420FD372574A06300960091 /* KeyboardFollower.swift */,
 				64FA584E2483B17E006E6821 /* TimerObject.swift */,
 			);
 			path = Utils;
@@ -251,7 +251,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1220;
 				ORGANIZATIONNAME = Omnijar;
 				TargetAttributes = {
 					6758885222DA0C090015DE4B = {
@@ -306,13 +306,13 @@
 				64E00C04247E714700BFCB87 /* RegisterView.swift in Sources */,
 				64BB701B247F9F4100464538 /* keyboardoffseter.swift in Sources */,
 				6758885922DA0C090015DE4B /* SceneDelegate.swift in Sources */,
+				6420FD382574A06300960091 /* KeyboardFollower.swift in Sources */,
 				64BB701D247FBE3D00464538 /* PracticeView.swift in Sources */,
 				64BB701F247FC17600464538 /* ChallengeObject.swift in Sources */,
 				6468BB332480BDAC0059DF2B /* PracticeOverView.swift in Sources */,
 				64D3D58024811FFC00067770 /* ChallengeView.swift in Sources */,
 				64FA58552483F763006E6821 /* ReverseOverView.swift in Sources */,
 				6461D6882488939000D67DEE /* APIJSONtestStruct.swift in Sources */,
-				64BB7019247F92F500464538 /* KeyboardFollower.swift in Sources */,
 				64FA584F2483B17E006E6821 /* TimerObject.swift in Sources */,
 				64D3D5822481201000067770 /* ChallengeGameView.swift in Sources */,
 				64BB7016247F8E4600464538 /* BorderedViewModifier.swift in Sources */,
@@ -372,6 +372,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -432,6 +433,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
