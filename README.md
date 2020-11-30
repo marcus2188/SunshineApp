@@ -8,7 +8,12 @@ More features will be worked on soon. As of July 2020, these are the following f
 * Language mode, with 4 languages: Chinese, Korean, Spanish
 * A functional practice mode with card view for learning
 
-<img width="310" alt="Screenshot 2020-11-30 at 11 58 08 AM" src="https://user-images.githubusercontent.com/57174326/100567417-5e99fa80-3303-11eb-8ea1-884fba48a1fc.png"> 
+<img width="310" alt="Screenshot 2020-11-30 at 11 58 08 AM" src="https://user-images.githubusercontent.com/57174326/100567417-5e99fa80-3303-11eb-8ea1-884fba48a1fc.png"> <img width="310" alt="Screenshot 2020-11-30 at 12 07 02 PM" src="https://user-images.githubusercontent.com/57174326/100568158-5a6edc80-3305-11eb-9778-ec46166971e0.png"> <img width="310" alt="Screenshot 2020-11-30 at 12 07 22 PM" src="https://user-images.githubusercontent.com/57174326/100568188-74102400-3305-11eb-9be7-5b6f08e2a468.png"> <br />
+
+<img width="310" alt="Screenshot 2020-11-30 at 12 07 35 PM" src="https://user-images.githubusercontent.com/57174326/100568218-92761f80-3305-11eb-8286-94e1e29cf99f.png">
+
+
+
 
 
 
