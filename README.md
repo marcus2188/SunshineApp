@@ -1,4 +1,4 @@
-##  Sunshine prototype game
+#  Sunshine prototype game
 
 Sunshine is a simple **pop quiz game** tailor made for learning languages on the fly. Users can challenge themselves through a myriad of game mode selections, with a wide selection of characters and different languages like chinese, korean and spanish etc. There is also a guided learning model that they can quickly access phrases for common situations, such as eating, socializing, or working.
 
@@ -9,6 +9,7 @@ As of July 2020, here are the highlight features of Sunshine:
 * Interactive card view for great learning
 
 Requirements to run my application is detailed within the Requirements.txt document in the root directory. 
+
 **Drop me an email specified in my profile to request a passcode.
 The passcode required to unlock the zip file. **
 
