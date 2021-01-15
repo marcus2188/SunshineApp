@@ -2,6 +2,6 @@ Requirements and procedures to run Sunshine App
 * Make sure you have iPhone X or newer
 * Ensure IOS version is iOS 13 or newer
 * Clone my repository from GitHub
-* Unzip the compressed file “Resources.zip” using the password given by me as per request
-* Make sure the Resources folder is inside Sources/App
+* Send me an email at marcus.2188@gmail.com  -> for me to send over the extra /Resources folder to you.
+* Make sure the Resources folder is placed inside Sources/App
 * Run the Xcode project file and see the results
