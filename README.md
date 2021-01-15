@@ -10,8 +10,8 @@ As of July 2020, here are the highlight features of Sunshine:
 
 Requirements to run my application is detailed within the Requirements.txt document in the root directory. 
 
-**Drop me an email specified in my profile to request a passcode.
-The passcode required to unlock the zip file**
+**Drop me an email specified in my profile to request a testrun. I will send over the required /resources folder.
+The folder has to be put into place in order for the IOS app to run.**
 
 
 
